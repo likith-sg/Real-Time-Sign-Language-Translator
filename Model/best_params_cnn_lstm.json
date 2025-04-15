@@ -1,0 +1,10 @@
+{
+  "learning_rate": 0.0002573532312184702,
+  "dropout": 0.3,
+  "dense_units": 384,
+  "lstm_units": 128,
+  "lstm_units_2": 192,
+  "lstm_units_3": 192,
+  "timestamp": "14-04-2025-11hour-45min-44sec",
+  "total_time_sec": 1014.8081057071686
+}

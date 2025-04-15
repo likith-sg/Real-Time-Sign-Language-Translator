@@ -1,0 +1,7 @@
+{
+  "learning_rate": 0.0007121105603646986,
+  "dropout": 0.2,
+  "dense_units": 256,
+  "timestamp": "14-04-2025-06hour-57min-19sec",
+  "total_time_sec": 3031.8129291534424
+}

@@ -1,0 +1,6 @@
+{
+    "total_training_time_seconds": 6389.977253913879,
+    "final_train_accuracy": 0.9812244772911072,
+    "final_val_accuracy": 0.9790475964546204,
+    "timestamp": "14-04-2025-09hour-55min-06sec"
+}
